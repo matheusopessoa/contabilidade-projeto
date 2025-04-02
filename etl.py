@@ -2,7 +2,7 @@ import pandas as pd
 from dataclasses import dataclass
 from typing import Dict, List
 from datetime import datetime
-import math  #p verificar nan
+import math  
 
 from codigos import list_despesas
 
